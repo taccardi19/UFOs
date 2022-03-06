@@ -9,22 +9,27 @@ Link to UFO webpage: https://taccardi19.github.io/UFOs/
 
 ### Filtering by Event Date
 The user will enter an event date in this field to filter down to a particular day.
+
 ![By Event Date](static/images/UFOs_Date_Filter.png)
 
 ### Filtering by City
 The user will use this field to enter a city, which will show results for UFO sightings in that city, if recorded.
+
 ![By City](static/images/UFOs_City_Filter.png)
 
 ### Filtering by State
 This is where a user can enter a state abbreviation to see results from that state.
+
 ![By State](static/images/UFOs_State_Filter.png)
 
 ### Filtering by Country
 A country can be entered in the below field.
+
 ![By Country](static/images/UFOs_Country_Filter.png)
 
 ### Filtering by Shape
 This is where a shape can be searched.
+
 ![By Shape](static/images/UFOs_Shape_Filter.png)
 
 ## Summary
