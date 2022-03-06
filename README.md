@@ -8,16 +8,25 @@ Link to UFO webpage: https://taccardi19.github.io/UFOs/
 ## Results
 
 ### Filtering by Event Date
-![By Event Date](Static/Images/UFOs_Date_Filter.png)
+The user will enter an event date in this field to filter down to a particular day.
+![By Event Date](static/images/UFOs_Date_Filter.png)
 
 ### Filtering by City
-![By City](Static/Images/UFOs_City_Filter.png)
+The user will use this field to enter a city, which will show results for UFO sightings in that city, if recorded.
+![By City](static/images/UFOs_City_Filter.png)
 
 ### Filtering by State
-![By State](Static/Images/UFOs_State_Filter.png)
+This is where a user can enter a state abbreviation to see results from that state.
+![By State](static/images/UFOs_State_Filter.png)
 
 ### Filtering by Country
-![By Country](Static/Images/UFOs_Country_Filter.png)
+A country can be entered in the below field.
+![By Country](static/images/UFOs_Country_Filter.png)
 
 ### Filtering by Shape
-![By Shape](Static/Images/UFOs_Shape_Filter.png)
+This is where a shape can be searched.
+![By Shape](static/images/UFOs_Shape_Filter.png)
+
+## Summary
+- One major drawback of the filtering process we worked out is that it has freeform fields. If the user spells a city wrong, for example, the results will not show. - A recommendation I would have is to use a dropdown menu to select options so you don't have to guess if a particular city or shape exist in the data and it eliminates some user error.
+- I would also recommend a "clear filters" button of some sort instead of having to reload it or wipe out your search.
